@@ -1,1 +1,1 @@
-print('test for git operation')
+print('test for git operation, more info')
